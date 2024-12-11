@@ -1,0 +1,49 @@
+.app {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+.search-bar {
+  margin-bottom: 20px;
+}
+
+.search-bar input {
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.search-bar button {
+  padding: 10px 15px;
+}
+
+.unit-toggle {
+  margin: 10px 0;
+}
+
+.weather-card {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 20px auto;
+  width: 300px;
+  text-align: center;
+}
+
+.weather-card img {
+  width: 50px;
+}
+
+.favorites ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.favorites li {
+  cursor: pointer;
+  padding: 5px 0;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}
